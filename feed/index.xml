@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>My thoughts, interests and projects</description>
-	<lastBuildDate>Sat, 28 Aug 2021 16:17:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Aug 2021 14:39:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,22 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Hello world!</title>
-		<link>./../2021/08/28/hello-world/index.html</link>
-					<comments>./../2021/08/28/hello-world/index.html#comments</comments>
+		<title>Sensor Node Localization in Wireless Sensor Networks using Flower Pollination Metaheuristic Algorithm</title>
+		<link>./../2021/08/28/sensor-node-localization/index.html</link>
+					<comments>./../2021/08/28/sensor-node-localization/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[tonyjames]]></dc:creator>
 		<pubDate>Sat, 28 Aug 2021 16:17:34 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Projects]]></category>
 		<guid isPermaLink="false">./../index.html?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[Wireless sensor networking is a growing technology that has a great variety of promising applications which include monitoring of the environment, intelligent spaces, healthcare systems &#8230;]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Wireless sensor networking is a growing technology that has a great variety of promising applications which include monitoring of the environment, intelligent spaces, healthcare systems and robotic exploration. These networks generally involve a good number of dispersed nodes that organize themselves into a multi-hop wireless network. Each of the nodes is battery driven and incorporates one or many sensors, embedded processors and low-power radios. Automated localization of the sensors in these wireless networks is a vital empowering technological solution. A sensor’s position and setting must be known for its sensed data to be beneficial. Another motivation for it is, the sensor location data (in the case it is precise enough) can be hugely effective for geographic routing algorithms. It can be also noted that the position data itself is often the data that needs to be sensed. For applications such as manufacturing logistics and warehousing, localization may very well be the driving force for wireless sensor networks (WSNs).</p>
+
+
+
+<p>Flower Pollination Algorithm is a recently developed nature-inspired algorithm based on pollination process of plants. Flower Pollination Algorithm is principally used to solve constrained and unconstrained optimization problems. Researchers are attracted towards this algorithm for its processing speed, ease to modify based on the requirement and robustness. With the help of FPA, we were able to localize (find the accurate location) of wireless sensor nodes – that are deployed randomly on a field usually by aircraft over a wide area. This meta-heuristic algorithm helped us calculate the locations accurately with minimal data from only a few number of nodes, thereby saving us precious battery life of the individual nodes.</p>
+
+
+
+<p>This academic work was presented in IEEE conferences and was published in the journal International Journal of Applied Engineering Research (IJAER), 2015,Vol. 10, No. 20, pp. 16404-16408</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../2021/08/28/hello-world/feed/index.html</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>./../2021/08/28/sensor-node-localization/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
