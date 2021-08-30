@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tony James</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="https://tonyjames.online/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tonyjames.online</link>
 	<description>My thoughts, interests and projects</description>
 	<lastBuildDate>Mon, 30 Aug 2021 15:13:49 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>./../wp-content/uploads/2021/08/Tony-Logo-white-New.jpg</url>
+	<url>https://tonyjames.online/wp-content/uploads/2021/08/Tony-Logo-white-New.jpg</url>
 	<title>Tony James</title>
-	<link>./../index.html</link>
+	<link>https://tonyjames.online</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hosting Jenkins on AWS EC2</title>
-		<link>./../2021/08/30/hosting-jenkins-on-aws-ec2/index.html</link>
+		<link>https://tonyjames.online/2021/08/30/hosting-jenkins-on-aws-ec2/</link>
 		
 		<dc:creator><![CDATA[tonyjames]]></dc:creator>
 		<pubDate>Mon, 30 Aug 2021 15:12:39 +0000</pubDate>
 				<category><![CDATA[Projects]]></category>
-		<guid isPermaLink="false">./../index.html?p=47</guid>
+		<guid isPermaLink="false">https://tonyjames.online/?p=47</guid>
 
 					<description><![CDATA[Tried to install Jenkins on my local machine today, just to play around with some pipelines. But I just couldn&#8217;t get it to launch, probably &#8230;]]></description>
 										<content:encoded><![CDATA[
@@ -75,7 +75,7 @@ sudo systemctl status jenkins</code></pre>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1290" height="666" src="./../wp-content/uploads/2021/08/Jenkins-homepage.jpg" alt="" class="wp-image-48"/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1290" height="666" src="https://tonyjames.online/wp-content/uploads/2021/08/Jenkins-homepage.jpg" alt="" class="wp-image-48"/></figure>
 ]]></content:encoded>
 					
 		
