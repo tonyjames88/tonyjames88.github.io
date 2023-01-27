@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Tony James	</title>
-	<atom:link href="https://tonyjames.online/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://tonyjames.online</link>
+	<atom:link href="https://tonyjames.xyz/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tonyjames.xyz</link>
 	<description>My thoughts, interests and projects</description>
 	<lastBuildDate>Mon, 30 Aug 2021 18:33:17 +0000</lastBuildDate>
 	<sy:updatePeriod>
